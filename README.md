@@ -69,7 +69,7 @@ Este projeto tem como finalidade o aprendizado de conceitos básicos de:
 
 ## ✍️ Autor
 
-Desenvolvido por **JP-GhOsT**
+Desenvolvido por **JP-Matsui**
 
 ---
 
